@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\bin\Debug\RSA Algoritması Uygulaması.exe.config
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\bin\Debug\RSA Algoritması Uygulaması.exe
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\bin\Debug\RSA Algoritması Uygulaması.pdb
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA Algoritması Uygulaması.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA_Algoritması_Uygulaması.Form1.resources
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA_Algoritması_Uygulaması.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA Algoritması Uygulaması.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA Algoritması Uygulaması.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA Algoritması Uygulaması.exe
+\\vmware-host\Shared Folders\Desktop\RSA Algoritması Uygulaması\RSA Algoritması Uygulaması\obj\Debug\RSA Algoritması Uygulaması.pdb
